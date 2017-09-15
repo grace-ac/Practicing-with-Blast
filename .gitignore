@@ -3,3 +3,13 @@ blastdb/uniprot_sprot.fasta
 blastdb/uniprot_sprot.phr
 blastdb/uniprot_sprot.pin
 blastdb/uniprot_sprot.psq
+
+blast_db/uniprot_sprot.fasta
+
+blast_db/uniprot_sprot.phr
+
+blast_db/uniprot_sprot.psq
+
+.DS_Store
+
+blast_db/uniprot_sprot.pin
