@@ -13,3 +13,7 @@ blast_db/uniprot_sprot.psq
 .DS_Store
 
 blast_db/uniprot_sprot.pin
+
+analyses/0918/Blastquery-GOslim.tab
+
+analyses/0918/uniprot-SP-GO.sorted
