@@ -17,3 +17,9 @@ blast_db/uniprot_sprot.pin
 analyses/0918/Blastquery-GOslim.tab
 
 analyses/0918/uniprot-SP-GO.sorted
+
+analyses/0918/GOunfolded.sorted
+
+analyses/0918/_blast-GO-unfolded.tab
+
+analyses/0918/GOslim.sorted
